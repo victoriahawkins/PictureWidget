@@ -1,6 +1,7 @@
 # PictureWidget
 Android widget sample project to update a picture
 
+[![Android picture widget](picturewidget.gif)](https://youtu.be/eAgViiv3Irg)
 
 ## Create a widget layout
 In this case, a button and ImageView
